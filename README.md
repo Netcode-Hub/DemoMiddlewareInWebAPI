@@ -1,4 +1,6 @@
 # Goodbye Complexity🙋‍♂️, Hello Middleware Magic👋! Supercharge Your .NET Web API Like a Pro!🚀🔥
+![middleware](https://github.com/Netcode-Hub/DemoMiddlewareInWebAPI/assets/110794348/670294ec-8074-4fbf-bb3e-8f566c6d0881)
+
  We're diving into a crucial aspect of .NET Web API development – Middleware. If you want to enhance your APIs with powerful functionalities, you've come to the right place! 🎉
  From handling requests and responses to logging and authentication, middleware is the unsung hero of Web API. Stick around to learn why it's useful, when to use it, and how to create your own middleware using Request Delegate and the IMiddleware interface!
 
